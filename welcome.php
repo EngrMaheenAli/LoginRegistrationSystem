@@ -9,7 +9,7 @@
         /* Basic styling for the page */
         body {
             font-family: Arial, sans-serif;
-            background-color: #170c46;
+            background: linear-gradient(45deg, #170c46, #fff, #170c46);
             margin: 0;
             padding: 0;
             display: flex;
@@ -52,8 +52,9 @@
 <body>
 
     <div class="container">
-        <h1>Welcome! Text Pixs </h1>
+        <h1>Welcome! Students </h1>
         <p>You are successfully logged in.</p>
+        <br>
         <a href="logout.php">Logout</a>
     </div>
 
