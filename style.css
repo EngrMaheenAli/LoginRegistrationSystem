@@ -7,13 +7,14 @@
     sans-serif;
 }
 body {
-    width: 100%;
+  width: 100%;
   min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #f0faff;
+  background: linear-gradient(45deg, #170c46, #fff, #170c46);
 }
+
 .wrapper {
   position: relative;
   max-width: 470px;
