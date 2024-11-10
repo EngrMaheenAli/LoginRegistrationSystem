@@ -9,7 +9,7 @@
         /* Basic styling for the page */
         body {
             font-family: Arial, sans-serif;
-            background-color: #6A1E55;
+            background-color: #170c46;
             margin: 0;
             padding: 0;
             display: flex;
@@ -35,7 +35,7 @@
         a {
             text-decoration: none;
             color: white;
-            background-color: #6A1E55;
+            background-color: #170c46;
             padding: 10px 20px;
             border-radius: 5px;
             font-size: 16px;
@@ -44,7 +44,7 @@
 
         a:hover {
             background-color: #fff;
-            color : #6A1E55;
+            color : #170c46;
         }
     </style>
 </head>
@@ -52,7 +52,7 @@
 <body>
 
     <div class="container">
-        <h1>Welcome!</h1>
+        <h1>Welcome! Text Pixs </h1>
         <p>You are successfully logged in.</p>
         <a href="logout.php">Logout</a>
     </div>
